@@ -94,6 +94,7 @@ def print_digits(time_now):
     print('\n')
 
 def clear_screen():
+    # os.system("clear")
     pass
 
 
